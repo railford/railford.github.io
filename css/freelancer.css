@@ -316,3 +316,13 @@ a {
   width: 100%;
   padding 20px;
 }
+
+.dyk{
+  background: linear-gradient(
+    to right,
+    #FFFFFF 0%,
+    #FFFFFF 75%,
+    #98DAF2 75%,
+    #98DAF2 100%
+  );
+}
