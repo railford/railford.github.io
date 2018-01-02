@@ -43,7 +43,7 @@ hr.star-light2 {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #00FDC8; }
+  background-color: #000000; }
 
 hr.star-light2:after{
   color: #fff;
@@ -100,11 +100,11 @@ section {
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: #fff; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: #00FDC8; }
+        color: #000000; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
         color: #fff; }
       #mainNav .navbar-nav li.nav-item a.nav-link.active {
-        color: #00FDC8; }
+        color: #000000; }
   #mainNav .navbar-toggler {
     font-size: 80%;
     padding: 0.8rem; }
@@ -125,10 +125,10 @@ section {
       margin-top: 0; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
       color: #fff;
-      background: #00FDC8; }
+      background: #000000; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
         color: #fff;
-        background: #00FDC8; }
+        background: #000000; }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem; }
@@ -243,7 +243,7 @@ header.masthead {
   opacity: 1; }
 
 .floating-label-form-group-with-focus label {
-  color: #00FDC8; }
+  color: #000000; }
 
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef; }
@@ -258,7 +258,7 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f; }
 
 a {
-  color: #00FDC8; }
+  color: #000000; }
   a:focus, a:hover, a:active {
     color: #128f76; }
 
@@ -266,7 +266,7 @@ a {
   border-width: 2px; }
 
 .bg-primary {
-  background-color: #00FDC8 !important; }
+  background-color: #000000 !important; }
 
 .bg-secondary {
   background-color: #2C3E50 !important; }
@@ -275,14 +275,14 @@ a {
   background-color: #FFFFFF !important; }
 
 .text-primary {
-  color: #00FDC8 !important; }
+  color: #000000 !important; }
 
 .text-secondary {
   color: #2C3E50 !important; }
 
 .btn-primary {
-  background-color: #00FDC8;
-  border-color: #00FDC8; }
+  background-color: #000000;
+  border-color: #000000; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background-color: #128f76;
     border-color: #128f76; }
@@ -322,7 +322,7 @@ a {
     to right,
     #FFFFFF 0%,
     #FFFFFF 70%,
-    #00FDC8 70%,
-    #00FDC8 100%
+    #000000 70%,
+    #000000 100%
   );
 }
